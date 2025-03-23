@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+    font-size: 24px;
+}
