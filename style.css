@@ -4,6 +4,29 @@
     color: black;
 }
 
+img {
+    width: 300px; height: auto;
+}
+
+body {
+    padding: 20px;
+    margin: 10px;
+}
+
+.body {
+    width: 900px;
+    margin-left: 100px;
+
+}
+
+ul {
+    margin: 20px;
+}
+
+li {
+    margin: 10px;
+}
+
 .heading {
     font-weight: bold;
     font-size: 42px;
